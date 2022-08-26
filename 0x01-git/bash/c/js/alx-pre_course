@@ -1,0 +1,9 @@
+echo '#!/bin/bash' > alx
+echo "ALX" >> alx
+echo '#!/bin/bash' > school
+echo "School" >> school
+cd ..
+git add .
+git commit -m 'Starting to code today, so cool'
+git push
+
